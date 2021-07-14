@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+🌱 I’m currently learning software developing at ASAC.
 <!--
 **yazanabdulhafez/yazanabdulhafez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
