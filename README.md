@@ -1,9 +1,11 @@
-### Hi there 👋
+## Hi there 👋
 
-🌱 I’m currently learning software developing at ASAC.
-📫 How to reach me: 
-<yazanali31@yahoo.com>
-<fso361435@gmail.com>
+### 🌱 I’m currently learning software developing at ASAC.
+
+### 📫 How to reach me:
+
+* <yazanali31@yahoo.com>
+* <fso361435@gmail.com>
 <!--
 **yazanabdulhafez/yazanabdulhafez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
