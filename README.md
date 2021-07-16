@@ -8,6 +8,8 @@
 * <fso361435@gmail.com>
 * [linkedin](https://www.linkedin.com/in/Yazan-Alkharabsheh)
 
+### ⚡ My Resume:
+* [My Resume](https://drive.google.com/file/d/1a1uAGjsyx8uhzk643YzZ77T2DifuTZ9z/view?usp=sharing)
 <!--
 **yazanabdulhafez/yazanabdulhafez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
