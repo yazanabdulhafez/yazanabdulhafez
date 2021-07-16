@@ -6,6 +6,8 @@
 
 * <yazanali31@yahoo.com>
 * <fso361435@gmail.com>
+* [linkedin](www.linkedin.com/in/Yazan-Alkharabsheh)
+
 <!--
 **yazanabdulhafez/yazanabdulhafez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
