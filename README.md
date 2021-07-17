@@ -11,7 +11,7 @@
 ### ⚡ My Resume:
 * [My Resume](https://drive.google.com/file/d/1a1uAGjsyx8uhzk643YzZ77T2DifuTZ9z/view?usp=sharing)
 
-[![yazan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yazanabdulhafez&theme=light&show_icons=true)](https://github.com/yazanabdulhafez)
+[![yazan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yazanabdulhafez&theme=radical&show_icons=true)](https://github.com/yazanabdulhafez)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yazanabdulhafez&theme=radical&show_icons=true)](https://github.com/yazanabdulhafez)
 <!--
 **yazanabdulhafez/yazanabdulhafez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
