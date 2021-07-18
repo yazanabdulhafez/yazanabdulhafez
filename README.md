@@ -3,9 +3,9 @@
 ### 🌱 I’m currently learning software developing at ASAC.
 
 ### 📫 How to reach me:
-
+My Email:
 * <yazanali31@yahoo.com>
-* <fso361435@gmail.com>
+
 * ![[linkedin](https://www.linkedin.com/in/Yazan-Alkharabsheh)](https://visualpharm.com/assets/230/Linkedin-595b40b75ba036ed117d8586.svg)
 
 ### ⚡ My Resume:
