@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 ### 🌱 I’m currently learning software developing at ASAC.
+### 🌱 I’m currently learning front end.
 
 ### 📫 How to reach me:
 My Email:
