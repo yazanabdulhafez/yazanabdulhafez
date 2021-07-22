@@ -5,7 +5,8 @@
 
 ### 📫 How to reach me:
 My Email:
-* <yazanali31@yahoo.com> * [![linkedin](https://visualpharm.com/assets/230/Linkedin-595b40b75ba036ed117d8586.svg)](https://www.linkedin.com/in/Yazan-Alkharabsheh)
+* <yazanali31@yahoo.com> 
+* [![linkedin](https://visualpharm.com/assets/230/Linkedin-595b40b75ba036ed117d8586.svg)](https://www.linkedin.com/in/Yazan-Alkharabsheh)
 
 ### ⚡ My Resume:
 * [My Resume](https://drive.google.com/file/d/1a1uAGjsyx8uhzk643YzZ77T2DifuTZ9z/view?usp=sharing)
