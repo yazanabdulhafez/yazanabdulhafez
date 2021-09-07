@@ -18,6 +18,7 @@ My Email:
 * [City-Explorer](https://suspicious-brahmagupta-dd99c3.netlify.app/)
 * [Can Of Books](https://trusting-colden-84ef43.netlify.app/)
 * [favoriteDrink](https://favoritedrink.netlify.app/)
+* [My-Crypto-Explorer](https://tender-hugle-5149d6.netlify.app/)
 ### Team work projects:
 * [pet-service-center](https://pet-service-center.github.io/pets-care-center/)
 * [nutriRec](https://nutrirec.netlify.app/)
