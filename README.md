@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### 🔭 I’m currently learning software developing at ASAC.
-### 🌱 I’m currently learning frontend and backend.
+### 🌱 I’m currently learning frontend and backend in 301 level.
 
 ### 📫 How to reach me:
 My Email:
