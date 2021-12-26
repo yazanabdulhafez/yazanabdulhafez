@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### 🔭 I’m currently learning software developing at ASAC.
-### 🌱 I will start by 401 level soon.
+### 🌱 Finished software development course from ASAC.
 
 ### 📫 How to reach me:
 My Email:
