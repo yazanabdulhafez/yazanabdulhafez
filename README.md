@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-### 🔭 I’m currently learning software developing at ASAC.
 ### 🌱 Finished software development course from ASAC.
 
 ### 📫 How to reach me:
@@ -9,7 +8,7 @@ My Email:
 * [![linkedin](https://visualpharm.com/assets/230/Linkedin-595b40b75ba036ed117d8586.svg)](https://www.linkedin.com/in/Yazan-Alkharabsheh)
 
 ### ⚡ My Resume:
-* [My Resume](https://drive.google.com/file/d/1a1uAGjsyx8uhzk643YzZ77T2DifuTZ9z/view?usp=sharing)
+* [My Resume](https://docs.google.com/document/d/1gQUVQ1FPF3edOgJFvMTsH5wJo3NadtsY/edit?usp=sharing&ouid=106212087028092683312&rtpof=true&sd=true)
 
 ### Live URL to some of my projects:
 * [Cookie-Stand](https://yazanabdulhafez.github.io/cookie-stand/)
