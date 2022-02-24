@@ -13,6 +13,7 @@ My Email:
 ### ⚡ My Resume:
 * [My Resume](https://docs.google.com/document/d/1gQUVQ1FPF3edOgJFvMTsH5wJo3NadtsY/edit?usp=sharing&ouid=106212087028092683312&rtpof=true&sd=true)
 
+
 ### Live URL to some of my projects:
 * [Cookie-Stand](https://yazanabdulhafez.github.io/cookie-stand/)
 * [Bus-Mall](https://yazanabdulhafez.github.io/bus-mall/)
@@ -22,13 +23,16 @@ My Email:
 * [favoriteDrink](https://favoritedrink.netlify.app/)
 * [NutriRec](https://nutrirec.netlify.app/)
 
+
 ### Team work projects:
 * [pet-service-center](https://pet-service-center.github.io/pets-care-center/)
 * [nutriRec](https://nutrirec.netlify.app/)
 * [Donation=Life](https://donationequallife.herokuapp.com/#whatwedo2)
 --------------------------------------------------------------
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yazanabdulhafez&theme=radical&show_icons=true)](https://github.com/yazanabdulhafez)
-[![yazan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yazanabdulhafez&theme=radical&show_icons=true)](https://github.com/yazanabdulhafez)
+<details>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yazanabdulhafez&theme=radical&show_icons=true" alt="topLang"/>
+<img src="https://github-readme-stats.vercel.app/api?username=yazanabdulhafez&theme=radical&show_icons=true" alt="img"/>
+</details>
 
 ### Languages and Tools
 
