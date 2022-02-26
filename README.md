@@ -3,6 +3,7 @@
 ### 🌱 Finished SoftWare Development Course From ASAC.
 ### 🔭 I’m currently searching about new work.
 
+### funny Jokes 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ### <p align="left"><a href="https://blissful-shannon-374502.netlify.app/" target="_blank" rel="noreferrer"><img src="https://www.new-educ.com/wp-content/uploads/portfolio.jpg" alt="portfolio" width="800px" height="250px"/></a></b>
@@ -32,6 +33,7 @@ My Email:
 * [Donation=Life](https://donationequallife.herokuapp.com/#whatwedo2)
 --------------------------------------------------------------
 <details>
+ <summary ><h3 style="color:red;">GitHub Activity</h3></summary>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yazanabdulhafez&theme=radical&show_icons=true" alt="topLang"/>
 <img src="https://github-readme-stats.vercel.app/api?username=yazanabdulhafez&theme=radical&show_icons=true" alt="img"/>
 </details>
