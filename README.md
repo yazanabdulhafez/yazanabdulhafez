@@ -3,9 +3,9 @@
 ### 🌱 Finished SoftWare Development Course From ASAC.
 ### 🔭 I’m currently searching about new work.
 
-### funny Jokes 
+<!-- ### funny Jokes 
 <img src="https://readme-jokes.vercel.app/api" alt="funny jockes" />
-
+ -->
 ### Portfolio
 <p align="left"><a href="https://blissful-shannon-374502.netlify.app/" target="_blank" rel="noreferrer"><img src="https://www.new-educ.com/wp-content/uploads/portfolio.jpg" alt="portfolio" width="800px" height="250px"/></a></b>
 
