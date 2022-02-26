@@ -33,7 +33,7 @@ My Email:
 * [Donation=Life](https://donationequallife.herokuapp.com/#whatwedo2)
 --------------------------------------------------------------
 <details>
- <summary ><h3 style="color:red;">GitHub Activity</h3></summary>
+ <summary >GitHub Activity</summary>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yazanabdulhafez&theme=radical&show_icons=true" alt="topLang"/>
 <img src="https://github-readme-stats.vercel.app/api?username=yazanabdulhafez&theme=radical&show_icons=true" alt="img"/>
 </details>
