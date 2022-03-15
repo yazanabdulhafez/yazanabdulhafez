@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### 🌱 Finished SoftWare Development Course From ASAC.
-### 🔭 I’m currently searching about new work.
+### 🔭 I’m currently searching about new Job.
 
 <!-- ### funny Jokes 
 <img src="https://readme-jokes.vercel.app/api" alt="funny jockes" />
