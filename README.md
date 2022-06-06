@@ -7,6 +7,7 @@
 <img src="https://readme-jokes.vercel.app/api" alt="funny jockes" />
  -->
 ### Portfolio
+<p>😄Click On The Image To See My Portfolio</p>
 <p align="left"><a href="https://yazan-alkharabsheh-portfolio.netlify.app/" target="_blank" rel="noreferrer"><img src="https://www.new-educ.com/wp-content/uploads/portfolio.jpg" alt="portfolio" width="800px" height="250px"/></a></b>
 
 ### 📫 How to reach me:
