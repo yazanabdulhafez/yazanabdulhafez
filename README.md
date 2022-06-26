@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 ### 🌱 Finished SoftWare Development Course From ASAC.
 ### 🔭 I’m currently searching about new Job.
@@ -26,7 +26,7 @@ My Email:
 * [City-Explorer](https://suspicious-brahmagupta-dd99c3.netlify.app/)
 * [Can Of Books](https://trusting-colden-84ef43.netlify.app/)
 * [favoriteDrink](https://favoritedrink.netlify.app/)
-* [NutriRec](https://nutrirec.netlify.app/)
+
 
 
 ### Team work projects:
