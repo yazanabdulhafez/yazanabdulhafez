@@ -48,6 +48,8 @@ My Email:
  
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Tanu-N-Prabhu)
 
+<!--profile preview 7,327-->
+
 <!--
 **yazanabdulhafez/yazanabdulhafez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
