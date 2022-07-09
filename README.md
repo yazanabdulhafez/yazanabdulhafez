@@ -47,6 +47,7 @@ My Email:
  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://docs.aws.amazon.com/dynamodb/index.html" target="_blank" rel="noreferrer"><img src="https://cdn.cdnlogo.com/logos/a/89/aws-dynamodb.svg" alt="dynmodb" width="40" height="40"></a><a href="https://cloud.google.com/"><img src="https://cdn.cdnlogo.com/logos/g/75/google-cloud.svg" alt="google-cloud" width="40" height="40"></a> </p>
  
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Tanu-N-Prabhu)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_text=My%20Page%20Visitors)
 
 <!--profile preview 7,327-->
 
