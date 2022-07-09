@@ -37,10 +37,13 @@ My Email:
 --------------------------------------------------------------
 <details style="color:green;">
  <summary >GitHub Activity</summary>
-
+<div>
 <img src="https://github-readme-stats.vercel.app/api?username=yazanabdulhafez&theme=radical&show_icons=true" alt="img"/>
  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=yazanabdulhafez&theme=blueberry&hide_border=true" />
+ </div>
+ <div>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yazanabdulhafez&theme=radical&show_icons=true" alt="topLang"/>
+ </div>
 </details>
 
 ### Languages and Tools
